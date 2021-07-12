@@ -1,0 +1,14 @@
+# compiled output
+dist/
+node_modules/
+package-lock.json
+
+# Tests
+coverage/
+
+# IDE
+.vscode/
+.idea/
+
+# dotenv environment variables file
+#env/
